@@ -54,10 +54,40 @@ python main.py
 Access the Gradio interface via the localhost link displayed in the terminal.
 
 Example Output
-The application generates a bar graph comparing recognition rates, such as:
-Video	Recognition Rate (%)
-Video 1	90%
-Video 2	85%
+**Scenario 1: Jumping**
+```
+Video   Recognition Rate (%)
+Video 1 88%
+Video 2 82%
+```
+
+**Scenario 2: Running**
+```
+Video   Recognition Rate (%)
+Video 1 85%
+Video 2 78%
+```
+
+**Scenario 3: Walking**
+```
+Video   Recognition Rate (%)
+Video 1 80%
+Video 2 76%
+```
+
+**Scenario 4: Dancing**
+```
+Video   Recognition Rate (%)
+Video 1 83%
+Video 2 79%
+```
+
+**Scenario 5: Sitting**
+```
+Video   Recognition Rate (%)
+Video 1 75%
+Video 2 70%
+```
 License
 This project is licensed under the Apache 2.0 License. See the LICENSE file for details.
 Contribution
