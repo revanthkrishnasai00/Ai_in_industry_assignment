@@ -88,13 +88,3 @@ Video   Recognition Rate (%)
 Video 1 75%
 Video 2 70%
 ```
-License
-This project is licensed under the Apache 2.0 License. See the LICENSE file for details.
-Contribution
-Contributions are welcome! Please submit a pull request or open an issue for any feature requests or bug reports.
-Author
-Developed by [Your Name]. Feel free to reach out for any questions or collaboration opportunities!
-Acknowledgements
-- NVIDIA Developer Platform
-- Gradio Framework
-- MoviePy Library
